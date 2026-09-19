@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "SAUDAGAR STYLE",
+    "legalName": "CV. SAUDAGAR",
+    "tagline": "Pusat Busana Muslim, Muslimah, Kulot Payung Ceruty & Set Gamis Anak Manasik Haji / Seragam Sekolah",
+    "motto": "Mitra Bisnis Terpercaya Anda",
+    "domain": "saudagarstyle.my.id",
+    "whatsappNumber": "6281808630730",
+    "phone": "+6281808630730",
+    "email": "admin@saudagar.my.id",
+    "address": "Jl. Kawali-Ciamis, Cipaku, Ciamis, Jawa Barat, Indonesia",
+    "operatingHours": "Senin - Sabtu: 08:30 - 21:00 WIB",
+    "tiktok": "Saudagar Style",
+    "shopee": "Saudagar Style"
+  },
+  "features": [
+    {
+      "icon": "sparkles",
+      "title": "Set Gamis Anak Crinkle Putih",
+      "desc": "Pilihan utama acara Manasik Haji, Seragam Pengajian, dan Seragam Sekolah."
+    },
+    {
+      "icon": "shield-check",
+      "title": "Kulot Payung Ceruty Babydoll",
+      "desc": "Bahan Ceruty Babydoll Premium flowy, anggun, adem dan berlapis furing nyaman."
+    },
+    {
+      "icon": "truck",
+      "title": "Tersedia di TikTok & Shopee",
+      "desc": "Official Store resmi @Saudagar Style & melayani pesanan seragam grosir."
+    },
+    {
+      "icon": "arrows-rotate",
+      "title": "Garansi Kualitas & Ukuran",
+      "desc": "Jaminan produk original jahitan rapi berstandar CV. SAUDAGAR."
+    }
+  ]
+}
